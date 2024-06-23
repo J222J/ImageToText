@@ -29,7 +29,7 @@
 # python3 main.py -f (filename) -ow (width of the output) -oh (height of the output)
 #
 # You can change the ASCII characters that the code uses by simply modifying the "characters" array, I've made a few presets
-# This is a WIP Project
+# This is a WIP Project (Version A01)
 
 import cv2
 import numpy as np
