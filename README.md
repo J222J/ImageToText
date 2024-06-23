@@ -1,7 +1,7 @@
 # THIS IS A WORK IN PROGRESS PROJECT
 # ImageToText
-A python script that turns any image into text.
-You will need the following libraries:
-  opencv (cv2)
-  numpy
-  argparse
+A python script that turns any image into text.\n
+You will need the following libraries:\n
+  \topencv (cv2)\n
+  \tnumpy\n
+  \targparse
